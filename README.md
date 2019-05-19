@@ -1,6 +1,6 @@
 # test
 test repo
-
+change in patch-2
 These are changes to master and branch called "patch-1". The changes are merged.
 
 
