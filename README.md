@@ -1,4 +1,5 @@
 # test
-test rep
+test repo
 
-These are changes to master
+These are changes to master and branch called "patch-1". The changes are merged.
+
