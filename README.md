@@ -11,3 +11,4 @@ This is a change to master after the branch merge.
 Now the changes have been merged.
 
 more changes to master.
+another change to master. But not made in patch-2.
