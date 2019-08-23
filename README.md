@@ -20,3 +20,7 @@ another change made on local computer.
 May 30th change on local computer.
 
 Aug 22nd change on local computer.
+
+Aug 23rd change on local computer, branch = new.
+
+Aug 23rd change on local computer, branch=master. Added sentence here.
